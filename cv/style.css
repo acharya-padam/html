@@ -28,7 +28,7 @@ ul li:not(.l1):before {
 
 .container{
     height: auto;
-    width: 85vw;
+    width: 60vw;
     box-shadow: 0 1px 1.5px 1px  gray;
     margin: 20px auto;
 }
